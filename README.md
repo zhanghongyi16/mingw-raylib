@@ -1,4 +1,4 @@
-# 此Raylib编译器由[zhanghongyi16](https://github.com/zhanghongyi16)打包
+# 此Raylib编译器由[HuaZhy](https://github.com/zhanghongyi16)打包
 
 # 如果想下载release版本,请点击下方的链接
 ## [下载release](https://github.com/zhanghongyi16/mingw-raylib/releases)
@@ -21,6 +21,6 @@ Raylib 主要文件版本: v5.5
 Raylib 附加库文件版本: 可能小于v5.5  
 打包日期: 公元2025年10月26日  
 [Raylib官方网站](https://www.raylib.com/index.html)  
-[zhanghongyi16](https://github.com/zhanghongyi16)
+[HuaZhy](https://github.com/zhanghongyi16)
 
 *此markdown最后编辑于2025年10月26日*
