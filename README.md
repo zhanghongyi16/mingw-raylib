@@ -23,4 +23,4 @@ Raylib 附加库文件版本: 可能小于v5.5
 [Raylib官方网站](https://www.raylib.com/index.html)  
 [HuaZhy](https://github.com/zhanghongyi16)
 
-*此markdown最后编辑于2025年10月26日*
+*此markdown最后编辑于2025年11月1日*
