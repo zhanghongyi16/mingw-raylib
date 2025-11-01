@@ -1,4 +1,4 @@
-# 此Raylib编译器由[HuaZhy](https://github.com/zhanghongyi16)打包
+# 此Raylib编译器由[HuaZhy](https://github.com/zhanghongyi16)创建
 
 # 如果想下载release版本,请点击下方的链接
 ## [下载release](https://github.com/zhanghongyi16/mingw-raylib/releases)
