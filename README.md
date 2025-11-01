@@ -6,14 +6,20 @@
 # 编译C/C++程序
 
 ## 编译使用raylib的C程序
-1. 打开CMD,导航到编译器的bin路径(或者可以将bin路径加入系统path路径)
+1. 打开CMD，导航到编译器的bin路径(或者可以将bin路径加入系统path路径)
 2. 输入"gcc -lraylib -lopengl32 -lgdi32 -lwinmm INPUTFILE.c -o OUTPUTFILE.exe"
 3. 等待编译成功
 
 ## 编译使用raylib的C++程序
-1. 打开CMD,导航到编译器的bin路径(或者可以将bin路径加入系统path路径)
+1. 打开CMD，导航到编译器的bin路径(或者可以将bin路径加入系统path路径)
 2. 输入"g++ -lraylib -lopengl32 -lgdi32 -lwinmm INPUTFILE.cpp -o OUTPUTFILE.exe"
 3. 等待编译成功
+
+## 注意
+使用raygui.h时，一定要在包含头文件前添加
+```
+#define RAYGUI_IMPLEMENTATION
+```
 
 # 信息
 GCC 版本: 15.2.0  
